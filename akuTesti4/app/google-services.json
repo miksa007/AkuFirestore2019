@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "609513354894",
+    "firebase_url": "https://maanantaitesti2019.firebaseio.com",
+    "project_id": "maanantaitesti2019",
+    "storage_bucket": "maanantaitesti2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513354894:android:20bad482cad27b16",
+        "android_client_info": {
+          "package_name": "fi.tuni.akufirebase2019testi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSaEj1ZBHVx7WW4_rkbXR_IlpuFnM9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513354894:android:5272d3e53d9b33e4",
+        "android_client_info": {
+          "package_name": "fi.tuni.kolmasmaanantaitesti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513354894-u5qf2p5uhrmbiitet4avdb6vnq14rllp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.tuni.kolmasmaanantaitesti",
+            "certificate_hash": "2234bd20a38a3f76f8689959e162a4833c15e5b0"
+          }
+        },
+        {
+          "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSaEj1ZBHVx7WW4_rkbXR_IlpuFnM9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513354894:android:f71f67d3491e83aa",
+        "android_client_info": {
+          "package_name": "fi.tuni.miksa.akutesti4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513354894-hjfpso5f0rlvpome1pca3t2pfu1qcrk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.tuni.miksa.akutesti4",
+            "certificate_hash": "ba37dd269e952d571d23528d63998d3bc8666c79"
+          }
+        },
+        {
+          "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSaEj1ZBHVx7WW4_rkbXR_IlpuFnM9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513354894:android:a07270b5ed74f99b",
+        "android_client_info": {
+          "package_name": "fi.tuni.storetesti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513354894-edqdmj1mbki5cha6urtmcn3so85iuipa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.tuni.storetesti",
+            "certificate_hash": "2234bd20a38a3f76f8689959e162a4833c15e5b0"
+          }
+        },
+        {
+          "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSaEj1ZBHVx7WW4_rkbXR_IlpuFnM9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513354894:android:d32e32fb19ae1577",
+        "android_client_info": {
+          "package_name": "fi.tuni.testitiistai2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513354894-rg1nr3e3enfamopdvj5btgi0bgbm6vbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.tuni.testitiistai2",
+            "certificate_hash": "2234bd20a38a3f76f8689959e162a4833c15e5b0"
+          }
+        },
+        {
+          "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSaEj1ZBHVx7WW4_rkbXR_IlpuFnM9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609513354894-pmrepupjdflljphm0gq21pkat9jgbu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
